@@ -20,6 +20,11 @@ Thumbs.db
 *.runs/
 *.sim/
 .xil/
+Lab 9/
+Lab 9 Final/
+lab4/
+Lab 8 - Assembly/smz32v50
+Lab 8 - Assembly/sms32v50.INI
 
 # # Vivado project files (optional to keep)
 # *.xpr
