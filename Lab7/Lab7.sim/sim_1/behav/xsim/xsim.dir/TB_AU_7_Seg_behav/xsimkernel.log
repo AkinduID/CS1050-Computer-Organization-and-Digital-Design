@@ -1,7 +1,0 @@
-Running: xsim.dir/TB_AU_7_Seg_behav/xsimk.exe -simmode gui -wdb TB_AU_7_Seg_behav.wdb -simrunnum 0 -socket 2872
-Design successfully loaded
-Design Loading Memory Usage: 8124 KB (Peak: 8124 KB)
-Design Loading CPU Usage: 0 ms
-Simulation completed
-Simulation Memory Usage: 8828 KB (Peak: 8828 KB)
-Simulation CPU Usage: 0 ms

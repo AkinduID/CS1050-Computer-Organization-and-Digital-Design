@@ -1,6 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../Lab 9 Final.srcs/sim_1/new/Register_Bank_TB.vhd" \
-
-# Do not sort compile order
-nosort
