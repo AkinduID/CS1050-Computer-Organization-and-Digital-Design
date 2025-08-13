@@ -1,1 +1,0 @@
-Copy the files in this directory to desktop before opening the project
