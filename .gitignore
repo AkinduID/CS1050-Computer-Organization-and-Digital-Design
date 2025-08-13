@@ -30,6 +30,7 @@ Lab 8 - Assembly/sms32v50.INI
 # *.xpr
 # *.xpr.lock
 # *.xpr.user
+*.xdc
 
 # Vivado log & journal files
 *.jou
